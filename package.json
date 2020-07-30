@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://git.codificar.com.br/react-components/react-native-ReactNativeCompany"
+    "url": "git+https://git.codificar.com.br/react-components/react-native-company"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -23,7 +23,7 @@
   },
   "author": "Codificar",
   "bugs": {
-    "url": "https://git.codificar.com.br/react-components/react-native-ReactNativeCompany/issues"
+    "url": "https://git.codificar.com.br/react-components/react-native-company/issues"
   },
-  "homepage": "https://git.codificar.com.br/react-components/react-native-ReactNativeCompany#readme"
+  "homepage": "https://git.codificar.com.br/react-components/react-native-company#readme"
 }
