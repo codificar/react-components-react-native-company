@@ -1,0 +1,41 @@
+{
+
+  "city": "CIUDAD",
+  "empty_city": "Ingrese su ciudad",
+  "state": "ESTADO",
+  "empty_state": "Ingrese su Estado",
+  "zip_code": "Código postal",
+  "insert_valid_zip_code": "Ingrese un Código postal válido",
+  "empty_neighborhood": "Ingrese su vecindario",
+  "neighborhood": "   BAIRRO",    
+  "empty_address": "Ingrese su Endereço",
+  "address": "HABLA A",
+  "empty_number": "Entra tu numero",
+  "number": "   NÚMERO",
+  "complement": "COMPLEMENTO (OPCIONAL)" ,
+
+  "empty_cnpj": "Ingrese su CNPJ",
+  "optional_email": "EMAIL COMERCIAL (OPCIONAL)",
+  "optional_phone": "TELÉFONO COMERCIAL (OPCIONAL)",
+  "municipal_registration": "Registro Municipal",
+  "insert_municipal_registration": "Rellene el registro municipal", 
+  "social_reason": "Razón social",
+  "insert_social_reason": "Rellene el nombre de la empresa",
+  "fantasy_name": "Nombre de fantasía",
+  "insert_fantasy_name": "Escribe tu nombre elegante",
+  "national_simple_optant": "Optante Simples Nacional",
+  "cultural_promoter": "Incentivo cultural",
+  
+  
+
+  "auth_doc": "Autenticación de certificado",
+  "select_doc": "ELIGE UN CERTIFICADO(.pfx))",
+  "password": "CONTRASEÑA",
+  "password_placeholder": "Ingrese la contraseña del certificado",
+  "insert_password": "Introducir la contraseña",
+  "insert_login": "Ingrese inicio de sesión",
+  "auth_login": "Autenticación de inicio de sesión",
+
+
+  "try_again": "Ocurrio un error. Inténtalo de nuevo"
+}

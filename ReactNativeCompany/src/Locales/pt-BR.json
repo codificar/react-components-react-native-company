@@ -1,0 +1,41 @@
+{
+
+  "city": "CIDADE",
+  "empty_city": "Insira sua Cidade",
+  "state": "ESTADO",
+  "empty_state": "Insira seu Estado",
+  "zip_code": "CEP",
+  "insert_valid_zip_code": "Insira um CEP válido",
+  "empty_neighborhood": "Insira seu Bairro",
+  "neighborhood": "   BAIRRO",    
+  "empty_address": "Insira seu Endereço",
+  "address": "   ENDEREÇO",
+  "empty_number": "Insira seu Número",
+  "number": "   NÚMERO",
+  "complement": "COMPLEMENTO (OPCIONAL)" ,
+
+  "empty_cnpj": "Insira seu CNPJ",
+  "optional_email": "EMAIL COMERCIAL (OPCIONAL)",
+  "optional_phone": "TELEFONE COMERCIAL (OPCIONAL)",
+  "municipal_registration": "Inscricao Municipal",
+  "insert_municipal_registration": "Preencha a Inscricao Municipal", 
+  "social_reason": "Razão social",
+  "insert_social_reason": "Preencha a Razão social",
+  "fantasy_name": "Nome fantasia",
+  "insert_fantasy_name": "Preencha o Nome fantasia",
+  "national_simple_optant": "Optante Simples Nacional",
+  "cultural_promoter": "Incentivador Cultural",
+  
+  
+
+  "auth_doc": "Autenticação via Certificado",
+  "select_doc": "ESCOLHA UM CERTIFICADO(.pfx))",
+  "password": "SENHA",
+  "password_placeholder": "Digite a senha do certificado",
+  "insert_password": "Insira a senha",
+  "insert_login": "Insira o login",
+  "auth_login": "Autenticação via Login",
+
+
+  "try_again": "Ocorreu um erro. Por favor, tente novamente"
+}

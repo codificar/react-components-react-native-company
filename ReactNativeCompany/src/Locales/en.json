@@ -1,0 +1,41 @@
+{
+
+  "city": "CITY",
+  "empty_city": "Enter your City",
+  "state": "STATE",
+  "empty_state": "Enter your State",
+  "zip_code": "Zip code",
+  "insert_valid_zip_code": "Enter a valid zip code",
+  "empty_neighborhood": "Enter your Neighborhood",
+  "neighborhood": "   NEIGHBORHOOD",    
+  "empty_address": "Enter your Address",
+  "address": "   ADDRESS",
+  "empty_number": "Enter your Number",
+  "number": "   NUMBER",
+  "complement": "COMPLEMENT (OPTIONAL)" ,
+
+  "empty_cnpj": "Enter your CNPJ",
+  "optional_email": "COMMERCIAL EMAIL (OPTIONAL)",
+  "optional_phone": "COMMERCIAL PHONE (OPTIONAL)",
+  "municipal_registration": "Municipal registration",
+  "insert_municipal_registration": "Enter your Municipal Registrationl", 
+  "social_reason": "Company name",
+  "insert_social_reason": "Fill in the Company name",
+  "fantasy_name": "Fantasy name",
+  "insert_fantasy_name": "Fill in your fancy name",
+  "national_simple_optant": "Optante Simples Nacional",
+  "cultural_promoter": "Cultural Promoter",
+  
+  
+
+  "auth_doc": "Certificate Authentication",
+  "select_doc": "CHOOSE A CERTIFICATE(.pfx))",
+  "password": "PASSWORD",
+  "password_placeholder": "Enter the certificate password",
+  "insert_password": "Insert your password",
+  "insert_login": "Insert your login",
+  "auth_login": "Login Authentication",
+
+
+  "try_again": "An error has occurred. Please try again"
+}

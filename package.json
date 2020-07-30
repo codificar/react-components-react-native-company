@@ -1,0 +1,29 @@
+{
+  "name": "react-native-company",
+  "version": "1.0.0",
+  "description": "A Component to register and edit company",
+  "main": "ReactNativeCompany",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.codificar.com.br/react-components/react-native-ReactNativeCompany"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react-native-root-toast": "^3.0.0",
+    "tcomb-form-native-codificar": "github:codificar/tcomb-form-native",
+    "react-native-document-picker": "^3.5.4",
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "author": "Codificar",
+  "bugs": {
+    "url": "https://git.codificar.com.br/react-components/react-native-ReactNativeCompany/issues"
+  },
+  "homepage": "https://git.codificar.com.br/react-components/react-native-ReactNativeCompany#readme"
+}
