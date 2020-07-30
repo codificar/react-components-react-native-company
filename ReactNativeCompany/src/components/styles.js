@@ -1,7 +1,5 @@
 import { StyleSheet } from "react-native";
-//whitelabel
-import colors from "../../../../Themes/Colors";
-
+// #2196f3
 export default StyleSheet.create({
   textTab1: primaryColor => ({
     width: 28,
@@ -35,16 +33,6 @@ export default StyleSheet.create({
     alignItems: "center",
     marginTop: 10,
   },
-  imgTab1: {
-    left: 5,
-  },
-  textTab2: {
-    width: 28,
-    borderBottomColor: colors.primaryColo,
-    borderBottomWidth: 2,
-    marginTop: -10,
-    right: 2,
-  },
   contTitlePage: {
     alignItems: "center",
   },
@@ -53,14 +41,12 @@ export default StyleSheet.create({
     marginTop: 20,
     marginBottom: 10,
   },
-
   sectionInputs: {
     flex: 1,
     marginTop: 10,
     paddingHorizontal: 30,
     paddingBottom: 80,
   },
-
   authSectionInputs: {
     flex: 1,
     marginTop: 10,
@@ -70,7 +56,6 @@ export default StyleSheet.create({
     color: "#ffffff",
     fontWeight: "bold",
   },
-
   NoButtonRegister: {
     borderRadius: 5,
     overflow: "hidden",
