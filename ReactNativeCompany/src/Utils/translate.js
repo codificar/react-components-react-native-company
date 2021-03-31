@@ -3,9 +3,9 @@ import en from "../Locales/en.json"
 import es from "../Locales/es.json"
 
 function setLang(lang) {
-    if (lang == "en-US") {
+    if (lang.substring(0, 2) == "en") {
         return en
-    } else if(lang === "es"){
+    } else if(lang.substring(0, 2) == "es"){
         return es
     } else {
         return ptBR
